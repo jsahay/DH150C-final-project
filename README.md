@@ -1,5 +1,5 @@
 # DH150C-final-project
-Predictive and manual classification
+Predictive and Manual Classification
 
 https://youtu.be/SZw6jjZJNT4
 
